@@ -1,2 +1,3 @@
 # graphics-Csharp
-Windows application for drawing lin using DDA Digital Differential Analyzer  and presenham line algorithms and cohen sutherland for clipping
+##Windows application:
+Drawing circle and elips  using DDA -Digital Differential Analyzer-  and presenham lin draw algorithms and using cohen sutherland algorithm for clipping.
